@@ -1,0 +1,1 @@
+"./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "./HAL/BUTTON/button.obj" "./HAL/KEYPAD/keypad.obj" "./HAL/LCD/lcd.obj" "./HAL/LED/led.obj" "./MCAL/GPIO/gpio.obj" "./MCAL/SYSTICK/systick.obj" "../tm4c123gh6pm.cmd" -llibc.a 
